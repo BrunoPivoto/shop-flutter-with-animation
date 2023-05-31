@@ -10,6 +10,7 @@ import 'package:shop/screens/product_detail_screen.dart';
 import 'package:shop/screens/product_form_screen.dart';
 import 'package:shop/screens/products_screen.dart';
 import 'package:shop/utils/app_route.dart';
+import 'package:shop/utils/custom_route.dart';
 
 import 'models/product_list.dart';
 
@@ -50,6 +51,9 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Flutter Demo',
         theme: ThemeData(
+          pageTransitionsTheme: PageTransitionsTheme(builders: {
+            TargetPlatform.android: CustomPageTransitionBuilder(),
+          }),
           colorScheme: ColorScheme.fromSwatch().copyWith(
             primary: Colors.purple,
             secondary: Colors.deepOrange,
