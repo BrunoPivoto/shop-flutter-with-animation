@@ -1,0 +1,154 @@
+{
+  "orders": {
+    "3zoo1UMwpUeD8bPXfagHelspXqn2": {
+      "-NWhxmdFLruyhg_779Qr": {
+        "date": "2023-05-30T15:41:35.637249",
+        "products": [
+          {
+            "id": "0.1100577026524231",
+            "name": "Shiryu de Dragão ",
+            "price": 129.99,
+            "productId": "-NWECwBzmLR2uHHOWOE5",
+            "qnt": 2
+          },
+          {
+            "id": "0.747254342798354",
+            "name": "Ikki de Fênix ",
+            "price": 210.99,
+            "productId": "-NWEGGa9V7rbpPVyYhHo",
+            "qnt": 2
+          }
+        ],
+        "total": 340.98
+      },
+      "-NWmCUUY_0pxWmTI8YP9": {
+        "date": "2023-05-31T11:28:40.447660",
+        "products": [
+          {
+            "id": "0.6316388956534021",
+            "name": "Ikki de Fênix ",
+            "price": 210.99,
+            "productId": "-NWEGGa9V7rbpPVyYhHo",
+            "qnt": 2
+          },
+          {
+            "id": "0.03382119524531613",
+            "name": "Shiryu de Dragão ",
+            "price": 129.99,
+            "productId": "-NWECwBzmLR2uHHOWOE5",
+            "qnt": 2
+          }
+        ],
+        "total": 340.98
+      },
+      "-NWmhNBHVUVm2wvBoGG_": {
+        "date": "2023-05-31T13:47:58.946309",
+        "products": [
+          {
+            "id": "0.8271789259033605",
+            "name": "Seiya de Pegasus ",
+            "price": 99.99,
+            "productId": "-NWECM4mmrJtz-Ur5Sru",
+            "qnt": 2
+          },
+          {
+            "id": "0.3348836472142177",
+            "name": "Hyoga de Cisne ",
+            "price": 119.99,
+            "productId": "-NWEDNK0DE7-_PZHFsPi",
+            "qnt": 2
+          },
+          {
+            "id": "0.9485080028008318",
+            "name": "Shun de Andromeda ",
+            "price": 89.99,
+            "productId": "-NWgr8ykGTldH829ANPH",
+            "qnt": 2
+          }
+        ],
+        "total": 309.96999999999997
+      }
+    },
+    "C8jcVDrEAPflkgsvw47d93WxOeX2": {
+      "-NWd6lOXn-GI8l_3Gh2k": {
+        "date": "2023-05-29T17:07:06.092580",
+        "products": [
+          {
+            "id": "0.08369036537621777",
+            "name": "Seiya de Pegasus ",
+            "price": 99.99,
+            "productId": "-NWECM4mmrJtz-Ur5Sru",
+            "qnt": 3
+          },
+          {
+            "id": "0.9875397578189431",
+            "name": "Hyoga de Cisne ",
+            "price": 119.99,
+            "productId": "-NWEDNK0DE7-_PZHFsPi",
+            "qnt": 2
+          }
+        ],
+        "total": 319.96999999999997
+      },
+      "-NWd7EdUhG7MCeyZDSlB": {
+        "date": "2023-05-29T17:09:10.019638",
+        "products": [
+          {
+            "id": "0.2066176584329802",
+            "name": "Shiryu de Dragão ",
+            "price": 129.99,
+            "productId": "-NWECwBzmLR2uHHOWOE5",
+            "qnt": 2
+          }
+        ],
+        "total": 129.99
+      }
+    }
+  },
+  "products": {
+    "-NWECM4mmrJtz-Ur5Sru": {
+      "description": "Cavaleiro de Pegasus",
+      "imageUrl": "https://static.wikia.nocookie.net/ssu/images/a/ac/Seiya_AD_GB_card_2.png",
+      "name": "Seiya de Pegasus ",
+      "price": 99.99
+    },
+    "-NWECwBzmLR2uHHOWOE5": {
+      "description": "Cavaleiro de Dragão ",
+      "imageUrl": "https://static.wikia.nocookie.net/ssu/images/c/c9/Shiryu_AD_GB_card.png",
+      "name": "Shiryu de Dragão ",
+      "price": 129.99
+    },
+    "-NWEDNK0DE7-_PZHFsPi": {
+      "description": "Cavaleiro de Cisne",
+      "imageUrl": "https://static.wikia.nocookie.net/ssu/images/f/f6/1957.jpg",
+      "name": "Hyoga de Cisne ",
+      "price": 119.99
+    },
+    "-NWEGGa9V7rbpPVyYhHo": {
+      "description": "Cavaleiro de Fênix ",
+      "imageUrl": "https://static.wikia.nocookie.net/ssu/images/0/0d/1150.jpg",
+      "name": "Ikki de Fênix ",
+      "price": 210.99
+    },
+    "-NWgr8ykGTldH829ANPH": {
+      "description": "Cavaleiro de Andromeda ",
+      "imageUrl": "https://static.wikia.nocookie.net/ssu/images/5/54/1955.jpg",
+      "name": "Shun de Andromeda ",
+      "price": 89.99
+    }
+  },
+  "userFavorites": {
+    "3zoo1UMwpUeD8bPXfagHelspXqn2": {
+      "-NWECwBzmLR2uHHOWOE5": true,
+      "-NWEDNK0DE7-_PZHFsPi": true,
+      "-NWEGGa9V7rbpPVyYhHo": true
+    },
+    "C8jcVDrEAPflkgsvw47d93WxOeX2": {
+      "-NWECM4mmrJtz-Ur5Sru": true,
+      "-NWECwBzmLR2uHHOWOE5": true,
+      "-NWEDNK0DE7-_PZHFsPi": true,
+      "-NWEGGa9V7rbpPVyYhHo": true,
+      "-NWEY3svTKnx_Z0HStYC": false
+    }
+  }
+}
