@@ -4,7 +4,7 @@ Projeto desenvolvido durante o curso de Flutter com objetivo de colocar em prát
 
 ## 🚀 Visão Geral
 
-O projeto possui autentificação com produtos favoritos e pedidos para cada usuário, animações e navegação, alémd e uma conxeão com o Real Time Database da Firebase da Google.
+O projeto possui gerenciamento de estado, navegação entre telas, formulários, requisições HTTP, autentificação, favoritos e pedidos para cada usuário, além de uma conxeão com o Real Time Database da Firebase da Google.
 
 ## ✨ Tecnologias Utilizadas
 
