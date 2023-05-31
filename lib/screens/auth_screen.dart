@@ -25,7 +25,7 @@ class AuthScreen extends StatelessWidget {
           ),
           Center(
             child: SingleChildScrollView(
-              child: Container(
+              child: SizedBox(
                 width: double.infinity,
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.center,
