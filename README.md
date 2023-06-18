@@ -30,6 +30,10 @@ Siga estas etapas para instalar e executar o projeto:
 1. Execute o comando `flutter run` para iniciar o aplicativo.
 2. Interaja com o aplicativo por meio da interface de usuário.
 
+## 📂 Prints da Aplicação
+
+<img style="border-radius: 5%;" src="https://github.com/BrunoPivoto/shop-flutter-with-animation/blob/2c227fa1290060ae60032fe591da718f9c8b6882/assets/images/tela_1.jpeg" width="120px;" alt="120px"/>           <img style="border-radius: 5%;" src="https://github.com/BrunoPivoto/shop-flutter-with-animation/blob/2c227fa1290060ae60032fe591da718f9c8b6882/assets/images/tela_2.jpeg" width="120px;" alt="120px"/>           <img style="border-radius: 5%;" src="https://github.com/BrunoPivoto/shop-flutter-with-animation/blob/2c227fa1290060ae60032fe591da718f9c8b6882/assets/images/tela_3.jpeg" width="120px;" alt="120px"/><br>
+
 ## 📂 Estrutura do Projeto
 
 A estrutura do projeto segue o padrão recomendado pelo Flutter, com a seguinte organização:
